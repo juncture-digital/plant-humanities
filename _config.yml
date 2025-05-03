@@ -1,11 +1,10 @@
-title: Website Title
+title: Plant Humanities Lab
 
-description: >
-  Website Description (goes in footer).
+description: Explore the cultural histories of plants and their influence on human societies
 
 author:
-  name: Site owner
-  email: site_owner@some_domain.com
+  name: Ron Snyder
+  email: ron@snyderjr.com
 
 nav_pages:
   - index.md
@@ -20,7 +19,7 @@ blog:
   show_rss_feed: true
 
 footer:
-  show_github_link: true
+  show_github_link: false
 
 plugins:
   - jekyll-feed
