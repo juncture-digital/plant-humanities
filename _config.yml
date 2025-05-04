@@ -9,12 +9,12 @@ author:
 nav_pages:
   - index.md
   - about.md
-  - blog.md
+  # - blog.md
 
 max-width: 1000px
 
 blog:
-  enabled: true
+  enabled: false
   show_excerpts: true
   show_rss_feed: true
 
