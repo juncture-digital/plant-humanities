@@ -14,7 +14,7 @@
     </script>
   </head>
 
-  <body>
+  <body style="display:none;">
 
     <header class="site-header">
       <div class="wrapper">
@@ -102,8 +102,8 @@
         <div class="footer-col-wrapper">
           <div class="footer-col">
           
-          {%- if page.title == 'Blog' %}
-            {%- if site.blog.show_rss_feed %}
+          {%- if page.title == 'Home' %}
+            {%- if site.show_rss_feed %}
               <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
                 <svg class="svg-icon orange">
                   <path d="M12.8 16C12.8 8.978 7.022 3.2 0 3.2V0c8.777 0 16 7.223 16 16h-3.2zM2.194
@@ -151,6 +151,19 @@
     
     <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
     <script>
+      const docReady = (fn) => { if (document.readyState === 'complete' || document.readyState === 'interactive') setTimeout(fn, 1); else document.addEventListener('DOMContentLoaded', fn) }
+      docReady(async function() {
+        setTimeout(() => document.body.style.display = 'block', 10)
+      })
+
+      window.ghbase = '{{ site.ghbase }}'
+      if (window.jekyll.site.github.owner_name) {
+        let owner = window.jekyll.site.github.owner_name
+        let repo = window.jekyll.site.github.repository_name
+        let branch = window.jekyll.site.github.source.branch
+        window.ghbase = `${owner}/${repo}/${branch}`
+      }   
+
       let junctureStyle = document.createElement('link')
       junctureStyle.href = `${location.port === '4100' ? 'http://localhost:3000': 'https://www.juncture-digital.io'}/css/index.css`
       junctureStyle.rel = 'stylesheet'
@@ -160,6 +173,7 @@
       junctureScript.src = `${location.port === '4100' ? 'http://localhost:3000': 'https://www.juncture-digital.io'}/js/index.js`
       junctureScript.type = 'module'
       document.body.appendChild(junctureScript)
+      setTimeout(() => document.body.style.display = 'block', 100)
    
       maxWidth = maxWidth || '{{ site.max-width }}'
       if (maxWidth) {
@@ -167,6 +181,8 @@
           el.style.maxWidth = maxWidth === 'full' ? 'unset' : maxWidth
         })
       }
+
+
     </script>
   </body>
 

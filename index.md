@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: narrative
 title: Home
 permalink: /
-layout: blog
 ---
 
 # Welcome 
