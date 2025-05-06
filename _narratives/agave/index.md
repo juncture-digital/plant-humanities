@@ -35,9 +35,10 @@ published: true
 
 The Hortus’s *Agave americana* certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an *Agave americana* typically blooms every 10 to 25 years and can grow upwards of 20 feet.[^ref2] *Agave* is a genus of [monocots](Q78961), with some 200 species indigenous to Central America, the southwestern United States, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
 
-`map location=25.503945,-102.834000,4.5 caption="Agave americana distribution" basemap=Esri_WorldPhysical`
+`map location=25.503945,-102.834000,4 caption="Agave americana distribution" basemap=Esri_WorldPhysical`
 `- geojson=agave_distribution.json`
-
+`- marker=Q13160`
+`- marker=Q170603`
 
 ## A Miracle Plant
 
