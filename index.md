@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: content
 title: Home
 permalink: /
 ---

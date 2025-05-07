@@ -9,13 +9,13 @@ author:
 nav_pages:
   - index.md
   - about.md
-  - narratives.md
 
 max-width: 1000px
 
 collections:
-  narratives:
+  content:
     output: true
+    permalink: /:collection/:path/
 
 show_excerpts: true
 show_rss_feed: true
@@ -26,7 +26,5 @@ footer:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  
 contentSelector: main.post-content, div.post-content
-
-ghbase: juncture-digital/plant-humanities/main

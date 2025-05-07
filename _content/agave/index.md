@@ -3,7 +3,6 @@ title: "Agave: A Plant with an Intoxicating History"
 description: Agave is a genus of monocots, with some 200 species indigenous to Central America, the southwestern United States, and in some tropical areas of South America. Today, agaves are best known as the plant from which tequila is made. While blue agaves grown in Mexico are used to produce tequila in that country, the cultural salience of the plant extends well beyond the world of distilled spirits. Indeed, as this visual narrative shows, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
 author: Ashley Buchanan
 date: 2025-05-01
-category: blog
 layout: post
 background:
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg
