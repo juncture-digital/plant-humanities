@@ -9,6 +9,8 @@ author:
 nav_pages:
   - index.md
   - about.md
+  - contributors.md
+  - contact.md
 
 max-width: 1000px
 

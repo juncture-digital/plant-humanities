@@ -11,6 +11,17 @@ layout: base
 
   {{ content }}
 
+  {% assign target_tag = page.tag %}
+
+<h1>Posts tagged "{{ target_tag }}"</h1>
+<ul>
+  {% for item in site.content %}
+    {% if item.tags contains target_tag %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for post in site.tags[page.tag] %}

@@ -2,16 +2,13 @@
 title: "Agave: A Plant with an Intoxicating History"
 description: Agave, a genus of about 200 monocot species native to the Americas, is best known today as the source of tequila. Beyond spirits, agave has long held cultural, religious, and environmental significance, shaping ancient Amerindian life, European botany, Mexican identity, and modern sustainability efforts.
 author: Ashley Buchanan
-date: 2025-05-01
+date: 2025-01-01
 layout: post
 background:
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg
-  position: center center
-  size: cover
-  height: 200
-  alpha: 0.5
+  image: "wc:Gc29_agave_americana.jpg"
+thumbnail: "gh:plant-humanities/media/main/thumbnails/agave.jpg"
 permalink: /agave
-tags: plant
+tags: succulent desert fiber beverage
 published: true
 ---
 
@@ -24,7 +21,7 @@ published: true
   iframe.right + p { margin-top: 0; }
 </style>
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} size={{ page.background.size }} position={{ page.background.position }} height={{ page.background.height }} alpha={{ page.background.alpha }}`
+`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
 
 ## The Big Bloom 
 
