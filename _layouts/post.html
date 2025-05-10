@@ -11,9 +11,8 @@ layout: base
     style="
       background-image: url('{{ page.background.image | relative_url }}');
       {%- if page.background.position -%} background-position: {{ page.background.position }};{%- endif -%}
-      {%- if page.background.repeat   -%} background-repeat: {{ page.background.repeat }};{%- endif -%}
-      {%- if page.background.size     -%} background-size: {{ page.background.size }};{%- endif -%}
-      {%- if page.background.attachment -%} background-attachment: {{ page.background.attachment }};{%- endif -%}
+      {%- if page.background.repeat   -%} background-repeat:   {{ page.background.repeat }};{%- endif -%}
+      {%- if page.background.size     -%} background-size:     {{ page.background.size }};{%- endif -%}
     "
   {%- endif -%}
 >
