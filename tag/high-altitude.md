@@ -5,4 +5,4 @@ tag: high-altitude
 robots: noindex
 ---
 
-Grows best above ~2 000 m
+Plants native to elevations above roughly 2 000 m (6 500 ft) where thinner air, stronger UV, and short growing seasons prevail. Adaptations include compact growth, anthocyanin pigments, and rapid life cycles. The tag signals species suitable for mountainous gardens or research into alpine ecology.
