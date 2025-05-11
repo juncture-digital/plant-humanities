@@ -23,9 +23,6 @@ published: true
 
 `header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}` 
 
-`audio src=narration.mp3 caption="AI-generated Narration"`
-`audio src=podcast.mp3 caption="AI-generated Podcast"`
-
 ## The Big Bloom 
 
 ###
@@ -109,8 +106,13 @@ Today, [tequila](https://daily.jstor.org/plant-of-the-month-agave/) is the natio
 
 Beyond producing one of North America’s favorite spirits, agave plants, as they have for centuries, might help human societies survive in the face of [global warming](Q7942). Recent scientific studies have shown that many agave species can actually benefit from the increases in temperature and atmospheric carbon dioxide levels accompanying global climate change. More importantly, agave plants have the ability to capture harmful carbon dioxide and store it and other forms of carbon long-term, which can mitigate or defer global warming.[^ref14] Finally, emerging research suggests that agave plants’ ability to survive in arid and semiarid climates makes them a viable biofuel feedstock, in the same way corn, sugarcane, and soybeans are used to produce ethanol. This is particularly important since approximately one-fifth of the earth’s climate is semiarid. Growing biomass feedstocks on land previously unsuitable for food crops, like corn and soybeans, could be a sustainable answer to increasing demands for renewable fuels that do not conflict with food and feed production.[^ref15]
 
+## AI-Generated Audio
 
-^###
+Below are AI-generated audio versions of this Plant Humanities visual narrative.
+
+`audio src=narration.mp3 caption="Narration (ElevenLabs)"`
+`audio src=podcast.mp3 caption="Podcast (ChatGPT & ElevenLabs)"`
+`audio src=podcast-nlm.mp3 caption="Podcast (Notebook LM)"`
 
 [^ref1]: Gerda van Uffelen and P.J.A. Kessler, _425 Years: Hortus Botanicus_ Leiden (Leiden, the Netherlands: Hortus Botanicus, 2015), 32–33.
 [^ref2]: Howard Scott Gentry, _Agaves of Continental North America_ (Tucson, Arizona: University of Arizona Press, 1982).
