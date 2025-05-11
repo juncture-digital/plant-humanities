@@ -21,7 +21,9 @@ published: true
   iframe.right + p { margin-top: 0; }
 </style>
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}` 
+
+`audio src=podcast.mp3`
 
 ## The Big Bloom 
 
