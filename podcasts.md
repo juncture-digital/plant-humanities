@@ -1,7 +1,7 @@
 ---
-layout: home
-title: Home
-permalink: /
+layout: podcasts
+title: Podcasts
+permalink: /podcasts
 ---
 
 # Welcome to Plant Humanities Lab

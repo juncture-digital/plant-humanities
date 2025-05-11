@@ -9,13 +9,17 @@ author:
 nav_pages:
   - index.md
   - about.md
-  - contributors.md
+  - podcasts.md
+  - contributors/index.md
   - contact.md
 
 max-width: 1000px
 
 collections:
-  content:
+  articles:
+    output: true
+    permalink: /:collection/:path/
+  podcasts:
     output: true
     permalink: /:collection/:path/
 

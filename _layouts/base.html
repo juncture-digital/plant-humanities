@@ -188,7 +188,6 @@
           img.src = `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
         } else if (img.src.indexOf('gh:') === 0) img.src = `https://raw.githubusercontent.com/${img.src.slice(3)}`
         let after = img.src
-        console.log(`${before} => ${after}`)
       })
     </script>
 
