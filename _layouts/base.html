@@ -19,6 +19,7 @@
     </script>
     {%- feed_meta -%} 
     <script>
+      console.log('fix image src')
       const mwUrl = (url) => {
         // Converts Wikimedia commons prefixed URL to a full URL
         let mwFile = (Array.isArray(url) ? url[0] : url).replace(/^wc:/,'').replace(/Special:FilePath\//, 'File:').split('File:').pop()
