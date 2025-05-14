@@ -12,7 +12,7 @@
         window.ghbase = "{{site.github.owner_name}}/{{site.github.repository_name}}/{{site.github.source.branch}}/{{page.path}}";
         var baseUrl = (window.location.port === '4100') ? 'http://localhost:3000' : 'https://www.juncture-digital.io';
         document.write(`<link rel="stylesheet" href="${baseUrl}/css/index.css">`);
-        document.write(`<script rel="stylesheet" href="${baseUrl}/js/index.js" type="module"></script>`);
+        document.write(`<script src="${baseUrl}/js/index.js" type="module"></script>`);
 
         /*
         maxWidth = maxWidth || '{{ site.max-width }}'
