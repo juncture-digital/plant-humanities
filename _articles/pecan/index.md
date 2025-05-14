@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/pecan.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pecan.jpg"
 permalink: /pecan
 tags: nut tree temperate
 published: true

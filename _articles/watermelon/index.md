@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/watermelon.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/watermelon.jpg"
 permalink: /watermelon
 tags: fruit tropical temperate
 published: true

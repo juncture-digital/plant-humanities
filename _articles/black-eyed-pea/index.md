@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://newsroom.ucr.edu/images/releases/1708_0hi.jpg" 
-thumbnail: "gh:plant-humanities/media/main/thumbnails/black_eyed_pea_1.png"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/black_eyed_pea_1.png"
 permalink: /black-eyed-pea
 tags: legume vegetable drought-tolerant staple
 published: true

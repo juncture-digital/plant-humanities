@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/peanut.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/peanut.jpg"
 permalink: /peanut
 tags: legume nut oilseed nitrogen-fixer
 published: true

@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "gh:plant-humanities/media/main/eggplant/Seikei_Zusetsu_cover.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/eggplant.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/eggplant.jpg"
 permalink: /eggplant
 tags: vegetable tropical
 published: true

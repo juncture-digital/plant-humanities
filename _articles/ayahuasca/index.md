@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/ayahuasca.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/ayahuasca.jpg"
 permalink: /ayahuasca
 tags: vine psychoactive medicinal tropical
 published: true

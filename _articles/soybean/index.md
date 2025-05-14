@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Glycine_max_15-p.bot-glyci.max-033.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/soybean.png"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png"
 permalink: /soybean
 tags: legume grain oilseed nitrogen-fixer
 published: true

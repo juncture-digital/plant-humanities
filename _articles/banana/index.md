@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/Banana.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Banana.jpg"
 permalink: /banana
 tags: fruit tropical staple
 published: true

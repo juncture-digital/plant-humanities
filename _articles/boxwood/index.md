@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/boxwood.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/boxwood.jpg"
 permalink: /boxwood
 tags: shrub ornamental temperate
 published: true

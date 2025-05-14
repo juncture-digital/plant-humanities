@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "http://free.iiifhosting.com/iiif/313605661600042de3bc4df1f3959c48cc760cfed05a65b802f8f182b9af57a8/full/1000,/0/default.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/cassava.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/cassava.jpg"
 permalink: /cassava
 tags: root tropical drought-tolerant staple
 published: false

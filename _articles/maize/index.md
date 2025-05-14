@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "gh:JSTOR-Labs/plant-humanities/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/maize__thumbnail.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/maize__thumbnail.jpg"
 permalink: /maize
 tags: grain staple temperate
 published: true

@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "gh:plant-humanities/media/main/dioscoreavillosa/dioscorea-voronoi1.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/Dioscorea.jpeg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Dioscorea.jpeg"
 permalink: /dioscoreavillosa
 tags: root medicinal vine temperate
 published: true

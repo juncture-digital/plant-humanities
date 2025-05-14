@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Corpse_flower_%2871304%29f.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/corpse-flower.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/corpse-flower.jpg"
 permalink: /corpse-flower
 tags: flower ornamental tropical
 published: true

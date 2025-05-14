@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Smith_-_Chinese_Tree_Peony_%28Paeonia_suffruticosa%29_-_1939.288_-_Cleveland_Museum_of_Art.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/Peony_Thumbnail.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Peony_Thumbnail.jpg"
 permalink: /peony
 tags: flower ornamental temperate
 published: true

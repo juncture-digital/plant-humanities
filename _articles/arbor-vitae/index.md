@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/arbor-vitae.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/arbor-vitae.jpg"
 permalink: /arbor-vitae
 tags: tree conifer ornamental temperate
 published: true

@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://images.nypl.org/index.php?id=G92F023_016F&t=w"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/carolina-rice.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/carolina-rice.jpg"
 permalink: /carolina-rice
 tags: grain wetland staple
 published: true

@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/heliconia.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/heliconia.jpg"
 permalink: /heliconia
 tags: flower ornamental tropical
 published: true

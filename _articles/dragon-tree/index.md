@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/dragon_tree.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/dragon_tree.jpg"
 permalink: /dragon-tree
 tags: succulent ornamental subtropical
 published: true

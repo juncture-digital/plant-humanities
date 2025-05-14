@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/pelargonium.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pelargonium.jpg"
 permalink: /pelargonium
 tags: shrub herb ornamental temperate
 published: true

@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/katsura.jpeg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/katsura.jpeg"
 permalink: /katsura
 tags: tree ornamental temperate cold-hardy
 published: true

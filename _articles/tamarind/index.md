@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Tamarindus_indica03.JPG"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/tamarind.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarind.jpg"
 permalink: /tamarind
 tags: fruit tropical condiment
 published: true

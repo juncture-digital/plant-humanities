@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Cacao_Nacional_Fino_de_Aroma.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/cacao.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/cacao.jpg"
 permalink: /cacao
 tags: fruit beverage tropical stimulant
 published: true

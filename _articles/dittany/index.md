@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Origanum-dictamnus-1.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/dittany.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/dittany.jpg"
 permalink: /dittany
 tags: herb spice medicinal temperate
 published: true

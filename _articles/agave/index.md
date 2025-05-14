@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Gc29_agave_americana.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/agave.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/agave.jpg"
 permalink: /agave
 tags: succulent desert fiber beverage
 published: true

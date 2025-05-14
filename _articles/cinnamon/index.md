@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://free.iiifhosting.com/iiif/b938df4335d5aaa2745efdf3c245ee75f2ee428020c64da87133184c160c10a/pct:0,40,100,40/full/0/color.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/cinnamon.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/cinnamon.jpg"
 permalink: /cinnamon
 tags: spice, medicinal, tropical
 published: true

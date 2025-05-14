@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "gh:plant-humanities/media/main/venus-flytrap/banner.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/venus_flytrap_thumbnail.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/venus_flytrap_thumbnail.jpg"
 permalink: /venus-flytrap
 tags: carnivorous ornamental wetland temperate
 published: true

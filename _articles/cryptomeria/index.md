@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Cryptomeria_japonica_%27Cristata%27_Szydlica_japo%C5%84ska_2019-06-09_04.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/Cryptomeria.jpeg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Cryptomeria.jpeg"
 permalink: /cryptomeria
 tags: tree conifer ornamental temperate
 published: true

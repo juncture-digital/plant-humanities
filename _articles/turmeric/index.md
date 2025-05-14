@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "https://images.nypl.org/index.php?id=1126115&t=w"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/turmeric.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/turmeric.jpg"
 permalink: /turmeric
 tags: root spice medicinal tropical
 published: true

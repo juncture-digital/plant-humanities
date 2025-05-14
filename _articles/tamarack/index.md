@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:Crowns_of_Siberian_larch_in_winter.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/tamarack.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg"
 permalink: /tamarack
 tags: tree conifer wetland cold-hardy
 published: true

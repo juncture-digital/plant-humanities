@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/mint.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mint.jpg"
 permalink: /mint
 tags: herb medicinal temperate
 published: true

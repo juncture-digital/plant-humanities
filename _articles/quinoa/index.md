@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "wc:White%2C_red%2C_and_black_quinoa.jpg"
-thumbnail: "gh:plant-humanities/media/main/thumbnails/quinoa.jpg"
+thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/quinoa.jpg"
 permalink: /quinoa
 tags: grain high-altitude staple gluten-free
 published: true
