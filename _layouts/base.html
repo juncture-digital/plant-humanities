@@ -18,6 +18,25 @@
       })();
     </script>
     {%- feed_meta -%} 
+    <script>
+      const mwUrl = (url) => {
+        // Converts Wikimedia commons prefixed URL to a full URL
+        let mwFile = (Array.isArray(url) ? url[0] : url).replace(/^wc:/,'').replace(/Special:FilePath\//, 'File:').split('File:').pop()
+        mwFile = decodeURIComponent(mwFile).replace(/ /g,'_')
+        const _md5 = md5(mwFile)
+        return `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
+      }
+
+      document.body.querySelectorAll('img').forEach((img) => {
+        let before = img.src
+        if (img.src.indexOf('wc:') === 0) {
+          let mwFile = decodeURIComponent(img.src.slice(3)).replace(/ /g,'_')
+          const _md5 = md5(mwFile)
+          img.src = `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
+        } else if (img.src.indexOf('gh:') === 0) img.src = `https://raw.githubusercontent.com/${img.src.slice(3)}`
+        let after = img.src
+      })
+    </script>
   </head>
 
   <body>
@@ -145,14 +164,10 @@
     
     <script>
       (function() {
-        const addScript = (src, isModule) => {
-          const script = document.createElement('script')
-          script.src = src
-          if (isModule) script.type = 'module'
-          document.body.appendChild(script)
-        }
-
-        addScript(window.dynamicBaseUrl + '/js/index.js', true)
+        const script = document.createElement('script')
+        script.src = window.dynamicBaseUrl + '/js/index.js'
+        script.type = 'module'
+        document.body.appendChild(script)
 
         maxWidth = maxWidth || '{{ site.max-width }}'
         if (maxWidth) {
@@ -163,26 +178,6 @@
       })();
     </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js"></script>
-    <script>
-      const mwUrl = (url) => {
-        // Converts Wikimedia commons prefixed URL to a full URL
-        let mwFile = (Array.isArray(url) ? url[0] : url).replace(/^wc:/,'').replace(/Special:FilePath\//, 'File:').split('File:').pop()
-        mwFile = decodeURIComponent(mwFile).replace(/ /g,'_')
-        const _md5 = md5(mwFile)
-        return `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
-      }
-
-      document.body.querySelectorAll('img').forEach((img) => {
-        let before = img.src
-        if (img.src.indexOf('wc:') === 0) {
-          let mwFile = decodeURIComponent(img.src.slice(3)).replace(/ /g,'_')
-          const _md5 = md5(mwFile)
-          img.src = `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
-        } else if (img.src.indexOf('gh:') === 0) img.src = `https://raw.githubusercontent.com/${img.src.slice(3)}`
-        let after = img.src
-      })
-    </script>
 
   </body>
 
