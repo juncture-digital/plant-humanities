@@ -9,6 +9,7 @@
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     <script>
       (function() {
+        window.jekyll = {site:{baseurl:'{{site.baseurl}}', contentSelector:'{{site.contentSelector}}', github:{owner_name:'{{site.github.owner_name}}',repository_name:'{{site.github.repository_name}}',source:{branch:'{{site.github.source.branch}}'}}},page:{path:'{{page.path}}',dir:'{{page.dir}}',name:'{{page.name}}',contentSelector:'{{page.contentSelector}}'}}
         window.ghbase = "{{site.github.owner_name}}/{{site.github.repository_name}}/{{site.github.source.branch}}/{{page.path}}";
         var baseUrl = (window.location.port === '4100')
           ? 'http://localhost:3000'
