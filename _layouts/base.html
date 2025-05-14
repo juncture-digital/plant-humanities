@@ -8,21 +8,10 @@
     {%- seo -%}
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     <script>
-      // (function() {
         window.ghbase = "{{site.github.owner_name}}/{{site.github.repository_name}}/{{site.github.source.branch}}/{{page.path}}";
         var baseUrl = (window.location.port === '4100') ? 'http://localhost:3000' : 'https://www.juncture-digital.io';
         document.write(`<link rel="stylesheet" href="${baseUrl}/css/index.css">`);
         document.write(`<script type="module" src="${baseUrl}/js/index.js">`);
-
-        /*
-        maxWidth = maxWidth || '{{ site.max-width }}'
-        if (maxWidth) {
-          document.querySelectorAll('.site-header .wrapper, .site-footer .wrapper, .page-content .wrapper').forEach((el) => {
-            el.style.maxWidth = maxWidth === 'full' ? 'unset' : maxWidth
-          })
-        }
-        */
-      // })();
     </script>
     <script>
       document.addEventListener('readystatechange', () => {
