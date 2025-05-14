@@ -32,7 +32,3 @@ footer:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-contentSelector: main.post-content, div.post-content
-
-ghbase: juncture-digital/plant-humanities/main
