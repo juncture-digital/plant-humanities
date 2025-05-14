@@ -159,8 +159,8 @@
       })();
     </script>
 
+    <script src="https://cdn.jsdelivr.net/npm/js-md5@0.8.3/src/md5.min.js"></script>
     <script>
-      console.log('fix image src')
       const mwUrl = (url) => {
         // Converts Wikimedia commons prefixed URL to a full URL
         let mwFile = (Array.isArray(url) ? url[0] : url).replace(/^wc:/,'').replace(/Special:FilePath\//, 'File:').split('File:').pop()
@@ -169,6 +169,7 @@
         return `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
       }
 
+      console.log('fix img src')
       document.body.querySelectorAll('img').forEach((img) => {
         let before = img.src
         if (img.src.indexOf('wc:') === 0) {
@@ -179,6 +180,7 @@
         let after = img.src
       })
     </script>
+
   </body>
 
 </html>
