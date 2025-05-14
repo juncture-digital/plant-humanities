@@ -14,8 +14,9 @@
         document.write(`<script type="module" src="${baseUrl}/js/index.js">`);
     </script>
     <script>
+      console.log('PHL', document.readyState);
       document.addEventListener('readystatechange', () => {
-        if (document.readyState === 'interactive') console.log('do Juncture things')
+        console.log('PHL', document.readyState);
       });
     </script>
     {%- feed_meta -%} 
