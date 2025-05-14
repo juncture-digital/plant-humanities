@@ -27,7 +27,7 @@
         return `https://upload.wikimedia.org/wikipedia/commons/${_md5.slice(0,1)}/${_md5.slice(0,2)}/${mwFile}`
       }
 
-      console.log('add listeners')
+      console.log('add listeners', document.readyState)
       document.addEventListener('readystatechange', () => {
         if (document.readyState === 'interactive') {
           console.log('fix img src')
