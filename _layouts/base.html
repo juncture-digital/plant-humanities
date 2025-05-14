@@ -157,11 +157,6 @@
     
     <script>
       (function() {
-        const script = document.createElement('script')
-        script.src = window.dynamicBaseUrl + '/js/index.js'
-        script.type = 'module'
-        document.body.appendChild(script)
-
         maxWidth = maxWidth || '{{ site.max-width }}'
         if (maxWidth) {
           document.querySelectorAll('.site-header .wrapper, .site-footer .wrapper, .page-content .wrapper').forEach((el) => {
