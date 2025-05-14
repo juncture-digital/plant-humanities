@@ -6,7 +6,7 @@ date: 2025-01-01
 layout: post
 background:
   image: "gh:JSTOR-Labs/plant-humanities/main/Contrayerva/Contrayerva_Header.jpg"
-thumbnail: "wc:Flore_médicale_des_Antilles,_ou,_Traité_des_plantes_usuelles_(Pl._207)_(8182110630).jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._207%29_%288182110630%29.jpg/330px-Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._207%29_%288182110630%29.jpg"
 permalink: /contrayerva
 tags: herb medicinal root tropical
 published: true
