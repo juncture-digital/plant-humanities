@@ -15,8 +15,22 @@ published: true
 
 ## AI-Generated Audio
 
-`audio src=narration.mp3 caption="Narration (ElevenLabs)" .medium`
+This page includes some experimental audio versions of the Agave essay.
 
-`audio src=podcast.mp3 caption="Podcast (ChatGPT & ElevenLabs)" .medium`
+### Narration
 
-`audio src=podcast-nlm.mp3 caption="Podcast (Notebook LM)" .medium`
+This is a strict audio narration of the article text using the [ElevenLabs](https://elevenlabs.io/) text to voice conversion.
+
+`audio src=narration.mp3 caption="Narration" .medium`
+
+### Single Speaker Overview/Podcast
+
+This is a single-speaker overview/podcast of the article.  The script for the audio was produced by ChatGPT using the article text as input with a prompt instructing to generate a summary for a general audience.  The summary produced by ChatGPT was then converted to audio using the [ElevenLabs](https://elevenlabs.io/) text to voice conversion.
+
+`audio src=podcast.mp3 caption="Single speaker overview/podcast" .medium`
+
+### Dual Speaker Podcast
+
+This is a podcast style overview of the article generated using the [NotebookLM](https://notebooklm.google.com/) audio overview feature with the article text as the sole source.  The generated audio overview is a podcast-style conversation between 2 speakers in the standard Notebook LM "Deep Dive" presentation format.
+
+`audio src=podcast-nlm.mp3 caption="Dual speaker 'Deep Dive' podcast" .medium`
