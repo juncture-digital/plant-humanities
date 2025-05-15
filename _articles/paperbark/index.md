@@ -8,7 +8,7 @@ background:
   image: "wc:170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg"
 permalink: /paperbark
-tags: tree medicinal tropical]
+tags: tree medicinal tropical
 published: true
 ---
 

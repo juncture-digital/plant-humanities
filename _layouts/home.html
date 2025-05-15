@@ -13,24 +13,24 @@ layout: base
 
   {{ content }}
 
-  {% capture tags %}
-    {% for tag in site.tags %}
-      {{ tag[0] }}
-    {% endfor %}
-  {% endcapture %}
+  {% assign all_tags = "" | split: "" %}
+  {% for article in site.articles %}
+    {% if article.tags %}
+      {% assign all_tags = all_tags | concat: article.tags %}
+    {% endif %}
+  {% endfor %}
+  {% assign unique_tags = all_tags | uniq | sort %}
 
-  {% assign num_tags = tags | number_of_words %}    
-  {%- if num_tags > 0 -%}
+
     <hr style="margin:0;"/>
     <div class="site-tags" style="display: flex; background-color: #f8f8f8; padding: 6px; border-radius: 5px; flex-wrap: wrap;">
       <span style="font-weight:500;">Tags:&nbsp;</span>
-      {% assign sortedtags = tags | split:' ' | sort %}
+      {% assign sortedtags = unique_tags %}
       {% for tag in sortedtags %}
         <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last != true %},&nbsp;{% endif %}
       {% endfor %}
     </div>
     <hr style="margin:0;"/><br/>
-  {%- endif -%}
 
   {% assign content = site.articles %}
   {%- if content.size > 0 -%}

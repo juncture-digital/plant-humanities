@@ -8,7 +8,7 @@ background:
   image: "wc:Okra_%28Abelmoschus_esculentus%29_%283%29.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg"
 permalink: /okra
-tags: vegetable, tropical, heat-tolerant
+tags: vegetable tropical heat-tolerant
 published: true
 ---
 
