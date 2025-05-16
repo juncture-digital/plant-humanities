@@ -4,15 +4,13 @@ description: The eggplant is more than just a versatile global ingredient—it�
 author: Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville
 date: 2025-01-01
 layout: post
-background:
-  image: "gh:plant-humanities/media/main/eggplant/Seikei_Zusetsu_cover.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/eggplant.jpg"
 permalink: /eggplant
 tags: vegetable tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Eggplant: Food, Sex, and Poison" author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville" img=gh:plant-humanities/media/main/eggplant/Seikei_Zusetsu_cover.jpg` 
 
 ### The Eggplant Emoji
 Originally designed by Japanese telecom companies, the <span eid="Q55267268">eggplant emoji</span> is part of the keyboard of icons that serve as the wordless shorthand of text messages and social media. The emoji is named Aubergine in Unicode, the universal standard for encoding linguistic and "picture" characters for electronic display. In 2010, the emoji keyboard was added to the Unicode Standard, and a year later, Apple made the keyboard accessible to iPhone users worldwide.[^ref1] When the eggplant emoji debuted in the United States and Canada, "Aubergine" was a relatively empty signifier ripe for a new association, one related to a topic of wireless conversation more routine than an Asian vegetable. Almost instantly, it became code for a phallus when, in 2011, the Twitter handle @iFUXXS_witHer tweeted "im jelly no 🍆 😥."[^ref2] Now, "sexting" or online foreplay is inseparable not with a banana 🍌 or an ear of corn 🌽 but with a long, bulbous purple fruit.

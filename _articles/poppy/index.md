@@ -4,15 +4,13 @@ description: The opium poppy has a long, complex history—as a sacred medicinal
 author: Carol Chang, Heather Rose Craddock, and Alejandro Garay
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:A_naturalist_in_Western_China_-_with_vasculum%2C_camera%2C_and_gun%2C_being_some_account_of_eleven_year%27s_travel%2C_exploration%2C_and_observation_in_the_more_remote_parts_of_the_flowery_kingdom%3B_%281913%29_%2814782677905%29.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg"
 permalink: /poppy
 tags: flower ornamental psychoactive medicinal
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Opium Poppy: A Cursed Beauty" author="Carol Chang, Heather Rose Craddock, and Alejandro Garay" img=wc:A_naturalist_in_Western_China_-_with_vasculum%2C_camera%2C_and_gun%2C_being_some_account_of_eleven_year%27s_travel%2C_exploration%2C_and_observation_in_the_more_remote_parts_of_the_flowery_kingdom%3B_%281913%29_%2814782677905%29.jpg` 
 
 ## Poppies: An Oscillating Symbol
 The opium poppy is one of many species in the poppy family (*Papaveraceae*), including *Papaver somniferum* (opium poppy), *Papaver rhoeas* (common or corn poppy), and *Papaver orientale* (oriental poppy). The opium poppy has a long history of human cultivation and coevolution. Writers, artists and artisans, horticulturalists, pharmacists, scientists, chefs, and narcotics dealers have engaged with the plant since antiquity. Originally used and revered by humans medicinally and religiously in the Middle East, the opium poppy became an object of aesthetic beauty in Europe and was later racialized through the [Opium Wars](Q220984) in the 19th century. While opium poppies have had a historic relationship with people as a drug, they have also been a subject of visual culture from the Neolithic period to the present day. As a recreational drug, opium has been a tool for artistic inspiration but also an addictive substance that has warranted attempts at wholesale eradication of poppy cultivation. Today, opium poppies are still grown for their flowers but are firmly associated with corruption due to their role in the illegal drug industry in South America and Afghanistan, where the poppies are mass produced for the seed capsules that hold the drug opium. The condemnation of the opium poppy occurred after centuries of shifting attitudes towards the plant, oscillating between a symbol of beauty and a blight on civilizations in different spaces, time periods, and cultural contexts. 

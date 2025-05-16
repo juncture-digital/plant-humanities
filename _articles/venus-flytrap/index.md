@@ -4,15 +4,13 @@ description: The Venus flytrap (Dionaea muscipula), once dubbed a “miracle of 
 author: John R. Schaefer
 date: 2025-01-01
 layout: post
-background:
-  image: "gh:plant-humanities/media/main/venus-flytrap/banner.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/venus_flytrap_thumbnail.jpg"
 permalink: /venus-flytrap
 tags: carnivorous ornamental wetland temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Venus Flytrap: Queen of the Carnivorous Plants" author="John R. Schaefer" img=gh:plant-humanities/media/main/venus-flytrap/banner.jpg` 
 
 ### A Household Name
 The Venus flytrap, <span eid="Q155825">*Dionaea muscipula*</span>, is easily the most infamous of <param ve-entity eid="Q18240"> carnivorous plants. It attracts, traps, kills, and derives nutrients from animal prey, typically in order to supplement the poor mineral nutrition of the soil in which it grows. Today, over 700 species possessing this specialized suite of adaptations have been identified, and are native to every continent except Antarctica. As the British botanist <span eid="Q157501">Joseph Dalton Hooker</span> (1817—1911) once proclaimed, "such vegetable sportsmen as the Sundew, the Venus’s Flytrap, and the Pitcher-Plants" have long been of interest to naturalists and the botanically inclined.[^ref1] The prominent figures that he refers to were indeed significant in the history of carnivorous plants.

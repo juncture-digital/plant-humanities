@@ -4,15 +4,13 @@ description: Mimosa pudica, known for its touch-sensitive leaves, has captivated
 author: Elaina Foley, Sabrina Freidus, and Jordan Norviel
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Mimosa_pudica_kian-siau-chhau.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosapudica.jpg"
 permalink: /mimosa-pudica
 tags: shrub ornamental nitrogen-fixer tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="The Sensitive Plant: Meaning and Movement" author="Elaina Foley, Sabrina Freidus, and Jordan Norviel" img=wc:Mimosa_pudica_kian-siau-chhau.jpg` 
 
 ### (Re)discovering the Sensitive Plant
 *Mimosa pudica* is a charismatic plant in the legume family whose leaves fold at night or when disturbed.[^1] The movement of its leaves has fascinated herbalists, botanists, and storytellers around the world for centuries. And their culturally mediated beliefs about the sensitivity, responsiveness, and sentient life have resulted in a diversity of relationships to this plant. Brought from Latin America to Europe, botanists became fascinated with the plant’s ability to move. There, the *Mimosa pudica* became a cultural symbol — fueling a scientific obsession with the intelligence of plants that continues today. *Mimosa pudica* specimens reside both at the New York Botanical Garden and United States Botanical Garden in Washington, DC, indicating the continued interest of scientific and botanical experts in cultivating this unique “weed” as an asset.[^2] Consider the adjoining video from the US Botanical Garden as a reminder that even as we respond to this plant’s legacy, it responds to us too.

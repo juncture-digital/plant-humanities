@@ -4,15 +4,13 @@ description: The katsura tree at Dumbarton Oaks, with its sweeping branches and 
 author: Abner Aldarondo
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/katsura.jpeg"
 permalink: /katsura
 tags: tree ornamental temperate cold-hardy
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Cercidiphyllum japonicum: The Katsura at Dumbarton Oaks" author="Abner Aldarondo" img=wc:Katsura_Tree_Cercidiphyllum_japonicum_Trunk_Bark_2000px.jpg` 
 
 ### The Katsura at Dumbarton Oaks
 

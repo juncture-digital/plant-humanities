@@ -4,15 +4,13 @@ description: Breadfruit, a towering tree with nourishing fruit, has long been a 
 author: Elaine Savory
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Breadfruit_1.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_branch._Coloured_e_Wellcome_V0044288.jpg/500px-Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_branch._Coloured_e_Wellcome_V0044288.jpg"
 permalink: /breadfruit
 tags: fruit tropical staple
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="The Breadfruit's Reinvention: Pacific to Caribbean" author="Elaine Savory" img=wc:Breadfruit_1.jpg` 
 
 The breadfruit tree is magnificent when mature, tall and broad branched, with large glossy leaves.  It provides shade and through its impressive spherical fruit, nutritious food.[^1]
 <param ve-image 

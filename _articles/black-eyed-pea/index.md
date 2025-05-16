@@ -4,15 +4,13 @@ description: The black-eyed pea has a rich global history, shifting from a sacre
 author: Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 date: 2025-01-01
 layout: post
-background:
-  image: "https://newsroom.ucr.edu/images/releases/1708_0hi.jpg" 
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/black_eyed_pea_1.png"
 permalink: /black-eyed-pea
 tags: legume vegetable drought-tolerant staple
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Black-Eyed Pea: Crop, Culture, Class" author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan" img=https://newsroom.ucr.edu/images/releases/1708_0hi.jpg` 
 
 ### A Food Source and So Much More
 While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.

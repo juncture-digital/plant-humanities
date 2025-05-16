@@ -4,15 +4,13 @@ description: The banana’s familiar image hides a complex history of human inte
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Banana.jpg"
 permalink: /banana
 tags: fruit tropical staple
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Bananas: Chaos out of Order" author="Ashley Buchanan" img=wc:Banana_Maria_Sibylla_Merian_1705_plate_XII.png` 
 
 <param title="Hartekamp" eid="Q18771183">
 <param title="ploidy" eid="Q118406" aliases="diploid">

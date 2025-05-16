@@ -4,15 +4,13 @@ description: Cryptomeria japonica, or sugi, is Japan’s national tree and has l
 author: Kira Bre Clingen and Edyth Jostol
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Cryptomeria_japonica_%27Cristata%27_Szydlica_japo%C5%84ska_2019-06-09_04.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Cryptomeria.jpeg"
 permalink: /cryptomeria
 tags: tree conifer ornamental temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Cryptomeria japonica: Climate Change, Cultivation, and Culture" author="Kira Bre Clingen and Edyth Jostol" img=wc:Cryptomeria_japonica_%27Cristata%27_Szydlica_japo%C5%84ska_2019-06-09_04.jpg` 
 
 # 
 Japanese cedar (_Cryptomeria japonica_), *sugi* in Japanese, is Japan's national tree and the most widely planted tree species in the country.[^1] It was the backbone of a massive and successful <span eid="Q2384419">afforestation</span> project following World War II (1941-1945) and the Korean War (1950-1953).[^2] Today, 70 percent of Japan is forested, and over 24 percent of this forest is made of cultivated plantations. However, the popularity of the tree that led to the widespread planting of the species has been negatively affected by the massive amounts of <span eid="Q79932">pollen</span> that the male cones produce each spring[^3], resulting in a drastic public health hazard. In fact, one–quarter of the country's population is afflicted with Japanese cedar pollinosis, an allergic reaction.

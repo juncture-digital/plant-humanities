@@ -4,15 +4,13 @@ description: The corpse flower, known for its massive size and foul odor, draws 
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Corpse_flower_%2871304%29f.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/corpse-flower.jpg"
 permalink: /corpse-flower
 tags: flower ornamental tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="The Corpse Flower - Amorphophallus titanium" author="Ashley Buchanan" img=wc:Corpse_flower_%2871304%29f.jpg` 
 
 ### Pretty Stinky
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the <span eid="Q636275">New York Botanical Garden (NYBG)</span>. A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the <span eid="Q431224">_Amorphophallus titanum_</span>, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name "corpse flower" suggests, this gigantic plant, when in bloom, smells like rotting flesh. 

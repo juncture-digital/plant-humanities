@@ -4,15 +4,13 @@ description: Though now beloved for its sweet red flesh, watermelon was historic
 author: Anna Lawrence, Camilo Uribe Botta, and May Wang
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/watermelon.jpg"
 permalink: /watermelon
 tags: fruit tropical temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Watermelon: Stereotypes of Race and Class" author="Anna Lawrence, Camilo Uribe Botta, and May Wang" img=wc:Albert_Eckhout_1610-1666_Brazilian_fruits.jpg` 
 
 <param title="Dianthius chinensis" eid="Q159013" aliases="dianthus flower">
 <param title="Crocus" eid="Q157806" aliases="crocuses">

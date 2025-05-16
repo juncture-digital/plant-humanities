@@ -4,15 +4,13 @@ description: The paperbark tree (Melaleuca quinquenervia) was introduced by colo
 author: Bethany Kidd and Sierra Roark
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg"
 permalink: /paperbark
 tags: tree medicinal tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="The Broad-Leaf Paperbark: Friend or Foe?" author="Bethany Kidd and Sierra Roark" img=wc:170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg` 
 
 Cultural warning for Aboriginal and Torres Strait Islander people: This webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
 <param ve-image 

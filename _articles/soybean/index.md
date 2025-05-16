@@ -4,15 +4,13 @@ description: Soybeans are everywhere—from grocery store shelves to livestock f
 author: Nina Elkadi
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Glycine_max_15-p.bot-glyci.max-033.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png"
 permalink: /soybean
 tags: legume grain oilseed nitrogen-fixer
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Soybean: The Versatile Miracle Crop" author="Nina Elkadi" img=wc:Glycine_max_15-p.bot-glyci.max-033.jpg` 
 
 Soy is everywhere. It can be found on the coating of fruit in the grocery store, in candy bars, and it comprises most of the vegetable oil we consume. Some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Soybean_Oil%2C_Meal_and_Beans_%2810059732523%29.jpg"

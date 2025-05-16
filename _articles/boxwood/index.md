@@ -4,15 +4,13 @@ description: Boxwood, once overlooked, rose to prominence as a popular ornamenta
 author: Anatole Tchikine
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/boxwood.jpg"
 permalink: /boxwood
 tags: shrub ornamental temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Boxwood: A Plant That Took Over the Garden World" author="Anatole Tchikine" img=wc:Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG` 
 
 <param title="Boxwood blight" eid="Q4952010">
 <param title="fungus" eid="Q764">

@@ -4,15 +4,13 @@ description: In 2014, mass protests erupted in Guatemala against the so-called â
 author: Julia Fine
 date: 2025-01-01
 layout: post
-background:
-  image: "gh:JSTOR-Labs/plant-humanities/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/maize__thumbnail.jpg"
 permalink: /maize
 tags: grain staple temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Maize: Sacred Plant, Global Commodity" author="Julia Fine" img=gh:JSTOR-Labs/plant-humanities/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg` 
 
 # 
 The year was 2014, and many Guatemalans were incensed. With a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the "Law for the Protection of New Plant Varieties," or, as it was popularly known, the "<span eid="Q207983">Monsanto</span> Law." The law "outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (US$130 to $1,300)."[^ref1]

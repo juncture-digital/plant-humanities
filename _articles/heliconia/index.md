@@ -4,15 +4,13 @@ description: Heliconias, known for their striking tropical beauty, have long bee
 author: W. John Kress and Yota Batsaki
 date: 2025-01-01
 layout: post
-background:
-  image: "https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/heliconia.jpg"
 permalink: /heliconia
 tags: flower ornamental tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Heliconia: Evolution at Work" author="W. John Kress and Yota Batsaki" img=https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713` 
 
 ### From Mount Helicon to the Amazon
 

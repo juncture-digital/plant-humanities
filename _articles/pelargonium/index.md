@@ -4,15 +4,13 @@ description: Charles Dickens adored the scarlet “geranium,” but the plant he
 author: Daisy Reid, Verónica Matallana Chaves, and Yao Jiang
 date: 2025-01-01
 layout: post
-background:
-  image: "https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pelargonium.jpg"
 permalink: /pelargonium
 tags: shrub herb ornamental temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Pelargonium: By Any Other Name Would Smell as Sweet?" author="Daisy Reid, Verónica Matallana Chaves, and Yao Jiang" img=https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg` 
 
 ### What’s in a Name?
 

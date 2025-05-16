@@ -4,15 +4,13 @@ description: Quinoa became a global “superfood” almost overnight, but its ro
 author: Matthew Turetsky
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:White%2C_red%2C_and_black_quinoa.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/quinoa.jpg"
 permalink: /quinoa
 tags: grain high-altitude staple gluten-free
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Quinoa: From Indigenous Crop to International Superfood" author="Matthew Turetsky" img=wc:White%2C_red%2C_and_black_quinoa.jpg` 
 
 Quinoa had its big break in 2013, when the <span eid="Q119847893">Food and Agriculture Organization</span> of the United Nations (FAO) declared it the International Year of Quinoa, and a flurry of newspaper and scholarly articles talked about this new food. It seemed to appear out of nowhere, and it had wonderful nutritional properties—high protein, essential vitamins and minerals, gluten-free.[^1] For its exceptional nutrition and exoticism, people began calling quinoa a “superfood,” an idea whose roots date back to [marketing campaigns for bananas in the early twentieth century](https://www.hsph.harvard.edu/nutritionsource/superfoods/). For several years prior to FAO's announcement, and especially following 2013, consumers in the Global North began adding it to salads for a protein boost, substituting it for rice to eliminate carbs, and experimenting with it in baked goods. And yet, these new consumers hardly knew where it came from, the farmers who cultivated it, what quinoa meant to the farmers before the quinoa boom, and the impact of the food trend on these communities.
 <param ve-video vid="KKnXFrwQivA" fit="contain">

@@ -4,15 +4,13 @@ description: The “tree of life,” or arbor vitæ, has long been surrounded by
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/arbor-vitae.jpg"
 permalink: /arbor-vitae
 tags: tree conifer ornamental temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Arbor Vitae: In Search of the Tree of Life" author="Ashley Buchanan" img=wc:Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg` 
 
 <param title="Montreal" eid="Q340">
 <param title="Quebec" eid="Q2145">

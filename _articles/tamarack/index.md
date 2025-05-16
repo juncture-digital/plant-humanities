@@ -4,15 +4,13 @@ description: The Tamarack tree, or Larix laricina, holds deep cultural and ecolo
 author: Hannah Hardenbergh
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Crowns_of_Siberian_larch_in_winter.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg"
 permalink: /tamarack
 tags: tree conifer wetland cold-hardy
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="What We Know Now: Tracing the Tamarack" author="Hannah Hardenbergh" img=wc:Crowns_of_Siberian_larch_in_winter.jpg` 
 
 ### Introduction
 One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, [Wenabozho](Q833857), punished the Tamarack. 

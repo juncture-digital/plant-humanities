@@ -4,15 +4,13 @@ description: Despite its name, the peanut is a legume with deep roots in South A
 author: Maria Job, Elizabeth Chant, and Katherine Enright
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/peanut.jpg"
 permalink: /peanut
 tags: legume nut oilseed nitrogen-fixer
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Peanut: From Luxury Food to Livestock Feed" author="Maria Job, Elizabeth Chant, and Katherine Enright" img=wc:A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg` 
 
 ### A Nut in Name Only
 Despite its English name and nutlike taste, the peanut is not a nut. This mighty <span eid="Q145909">legume</span> is grown around the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, <span eid="Q37383">_Arachis hypogaea_</span>–hypo meaning under and gaea meaning earth–reflects this tropical plant’s ingenious means of reproduction: its aerial flowers undergo fertilization above the ground and burrow into the soil to bear their fruit.

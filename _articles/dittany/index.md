@@ -4,15 +4,13 @@ description: Used for over 2,000 years, dittany has been closely tied to women�
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Origanum-dictamnus-1.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/dittany.jpg"
 permalink: /dittany
 tags: herb spice medicinal temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Dittany: Women’s Herbs and Reproductive Control" author="Ashley Buchanan" img=wc:Origanum-dictamnus-1.jpg` 
 
 ### Herbs and Women’s Health
 Twenty-first century women generally assume that we enjoy greater agency over health and fertility than women of the pre-modern world, thanks to scientific advancements in women’s health as well as the availability and effectiveness of <span eid="Q122224">contraceptives</span>. We accept that without modern obstetrics, gynecology, and hormonal contraceptives, our foremothers were simply victims of biology—if they survived the perils of their first pregnancy and childbirth, they spent much of their lives pregnant. While it is true that for much of history women did not have reproductive knowledge derived from technological advancements and modern gynecology, it is incorrect to assume that they had no reproductive knowledge or choice. In fact, for much of history, women’s agency over their health and fertility was due in large part to their knowledge of medicinal herbs—herbs like <span eid="Q1227336">dittany</span>.

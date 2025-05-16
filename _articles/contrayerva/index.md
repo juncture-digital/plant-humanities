@@ -4,15 +4,13 @@ description: Francis Drake’s 16th-century voyage around the globe helped spark
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "gh:JSTOR-Labs/plant-humanities/main/Contrayerva/Contrayerva_Header.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._207%29_%288182110630%29.jpg/330px-Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._207%29_%288182110630%29.jpg"
 permalink: /contrayerva
 tags: herb medicinal root tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Contrayerva" author="Ashley Buchanan" img=gh:JSTOR-Labs/plant-humanities/main/Contrayerva/Contrayerva_Header.jpg` 
 
 ### Drake’s Root
 In September of 1580, explorer Francis Drake became the first Englishman to circumnavigate the globe. During his three-year journey, Drake sailed west from England, through the Straits of Magellan (southern Chile), up the west coast of South America to Peru, and finally as far north as present-day California before crossing the Pacific Ocean. He then travelled through Moluccas and Java (Indonesia) before rounding the Cape of Good Hope (South Africa) and returning to England. Along the way, Drake kept personal notes and drew images of the exotic plants he encountered.

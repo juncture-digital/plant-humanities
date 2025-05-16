@@ -4,24 +4,13 @@ description: Agave, a genus of about 200 monocot species native to the Americas,
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Gc29_agave_americana.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/agave.jpg"
 permalink: /agave
 tags: succulent desert fiber beverage
 published: true
 ---
 
-<style>
-  .section3 { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2em; align-items: start; margin-top: 2em; }
-  .section3 > :first-child { flex: 0 0 100%; } /* header takes full width, if defined */
-  .section3 > *:not(:first-child) { flex: 1 1 200px; }
-  .section3 iframe { box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px; margin-bottom: 1em; }
-  p { font-size: 1.2em; }
-  iframe.right + p { margin-top: 0; }
-</style>
-
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}` 
+`header title="Agave: A Plant with an Intoxicating History" author="Ashley Buchanan" img=wc:Gc29_agave_americana.jpg` 
 
 ## The Big Bloom 
 

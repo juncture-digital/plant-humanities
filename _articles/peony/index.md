@@ -4,15 +4,13 @@ description: Peonies are prized today for their stunning blooms, but they also h
 author: Ashley Buchanan
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Smith_-_Chinese_Tree_Peony_%28Paeonia_suffruticosa%29_-_1939.288_-_Cleveland_Museum_of_Art.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Peony_Thumbnail.jpg"
 permalink: /peony
 tags: flower ornamental temperate
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Peony: Pretty and Powerful" author="Ashley Buchanan" img=wc:Smith_-_Chinese_Tree_Peony_%28Paeonia_suffruticosa%29_-_1939.288_-_Cleveland_Museum_of_Art.jpg` 
 
 <param title="epilepsy" eid="Q41571" aliases="mal caduco">
 <param title="precipitation" eid="Q113796">

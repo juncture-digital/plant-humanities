@@ -4,15 +4,13 @@ description: Carolina rice, once lost after the Reconstruction era, is being rev
 author: Julia Fine
 date: 2025-01-01
 layout: post
-background:
-  image: "https://images.nypl.org/index.php?id=G92F023_016F&t=w"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/carolina-rice.jpg"
 permalink: /carolina-rice
 tags: grain wetland staple
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Carolina Rice: An Agricultural Legacy of Enslaved Peoples" author="Julia Fine" img=https://images.nypl.org/index.php?id=G92F023_016F&t=w` 
 
 <param title="American Civil War" eid="Q8676" aliases="Civil War">
 

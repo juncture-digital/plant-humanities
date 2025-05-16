@@ -4,15 +4,13 @@ description: Turmeric, prized for its vivid yellow-orange rhizome, has long been
 author: Julia Fine
 date: 2025-01-01
 layout: post
-background:
-  image: "https://images.nypl.org/index.php?id=1126115&t=w"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/turmeric.jpg"
 permalink: /turmeric
 tags: root spice medicinal tropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Turmeric: Herb of the Sun" author="Julia Fine" img=https://images.nypl.org/index.php?id=1126115&t=w` 
 
 <param title="Berberis" eid="Q158503" aliases="barbarie bark">
 

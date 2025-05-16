@@ -4,15 +4,13 @@ description: Cacao, the source of chocolate, has a deep history rooted in ancien
 author: Rebecca Friedel
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Cacao_Nacional_Fino_de_Aroma.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/cacao.jpg"
 permalink: /cacao
 tags: fruit beverage tropical stimulant
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Cacao: Indigenous Network to Global Commodity" author="Rebecca Friedel" img=wc:Cacao_Nacional_Fino_de_Aroma.jpg` 
 
 <param title="Nicolás Monardes based in Seville" eid="Q8717" fill="#92086D" marker-symbol="user">
 <param title="Benzoni‘s accounts discuss his encounters with cacao in Nicaragua" eid="Q811" fill="#92086D" marker-symbol="user">

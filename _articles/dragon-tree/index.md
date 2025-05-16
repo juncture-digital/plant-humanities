@@ -4,15 +4,13 @@ description: Despite its mythical name, “dragon’s blood” is a vivid red re
 author: Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian
 date: 2025-01-01
 layout: post
-background:
-  image: "wc:Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg"
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/dragon_tree.jpg"
 permalink: /dragon-tree
 tags: succulent ornamental subtropical
 published: true
 ---
 
-`header title="{{ page.title }}" author="{{ page.author }}" img={{ page.background.image }} height={{ page.background.height | default: 250 }} position={{ page.background.position | default: center }} size={{ page.background.size | default: cover }} alpha={{ page.background.alpha | default: 0.4}}`
+`header title="Dracaena draco: The Mystery of Dragon’s Blood" author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian" img=wc:Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg` 
 
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species">
 
