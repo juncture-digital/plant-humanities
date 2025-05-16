@@ -13,7 +13,7 @@ published: true
 `header title="Black-Eyed Pea: Crop, Culture, Class" author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan" img=https://newsroom.ucr.edu/images/releases/1708_0hi.jpg` 
 
 
-# A Food Source and So Much More
+## A Food Source and So Much More
 
 While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
 <param ve-image fit="contain" label="Black-eyed peas are small distinctive white beans."
@@ -26,7 +26,7 @@ While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global his
        manifest="wc:Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 
 
-# Growth, Domestication, and Mobility
+## Growth, Domestication, and Mobility
 
 Black-eyed peas ([_Vigna unguiculata_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2)) are <span eid="Q44448">leguminous plants</span> that grow best in semi-arid conditions but can thrive in poor soils with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest of beans within 100 days. The ease of growth and usefulness of this crop contributed to its spread from West and East Africa to Egypt by circa 2500 BCE and to the Mediterranean and the Indian subcontinent by 1500 BCE. Archaeological and genetic evidence show that West Africans domesticated wild relatives of the plant at least 6,000 years ago.[^ref1] Because of their quick maturing and reliability, black-eyed peas are an important part of mixed <span eid="Q5465532">food systems</span>: wild gathering, hunting, fishing, and <span eid="Q188989">aquaculture</span>, keeping small livestock, and/or building larger herds, <span eid="Q397350">agroforestry</span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref2]
 <param ve-image
@@ -35,7 +35,7 @@ Black-eyed peas ([_Vigna unguiculata_](https://powo.science.kew.org/taxon/urn:ls
        url="https://raw.githubusercontent.com/plant-humanities/media/main/black-eyed-peas/Herniter_Muñoz-Amatriaín_Close_Proposed_spread_of_cowpea_Copyright_2020_The_Authors._Legume_Science_published_Wiley_Periodicals_LLC_CC_BY_4.0.jpg">
 
        
-# Cultural Perceptions in Europe
+## Cultural Perceptions in Europe
 
 Since <span eid="Q486761">classical antiquity</span>, the black-eyed pea has been a cultural marker of those who lacked social status in European societies. A stigma surrounding dried foods impinged the reputation of the bean and its eaters: while wealthy and socially powerful individuals could afford fresh foods, peasants relied upon cheaper dried foods. The beans were shelled, dried, and used in humble soups, though in its fresh green form the black-eyed pea apparently made a delicious dessert served in <span eid="Q5690">Sparta</span>.[^ref3] The imbrication of class, culture, and food is apparent, for example, in ancient Greek and Roman floor <span eid="Q133067">mosaics</span> that depict food scraps strewn across a floor after a lavish banquet. In perhaps the most famous example of the unswept floor genre, seen here, lobster shells, olive pits, partially eaten fish, and nuts litter the ground, but nary a bean is to be found.
 <param ve-image
@@ -57,7 +57,7 @@ In contrast, many more artists took inspiration from the <span eid="Q25237">gree
 <param ve-knightlab-timeline source="1goBeScMb3Depvqjmo89tMojcRHDbVY4YOktgo-P7oV4">
 
 
-# Peas and Beans in Early Modern Texts and Images
+## Peas and Beans in Early Modern Texts and Images
 
 Visual representations of black-eyed peas and other varieties of beans and peas shaped European understanding of the plant. Beginning in the sixteenth century, the dramatic rise in the production and circulation of printed texts with images, such as <span eid="Q6165948">herbals</span> and natural histories, reinforced the codification of plants based on their geographic origins. Unprecedented global travel also formed European ideas about the ways in which close observation of the natural world could reveal the domestic or foreign origins of a person, plant, or animal. One result of this was a shift in European attitudes toward the black-eyed pea.
 <param ve-image region="275,48,1380,1253" manifest="gh:plant-humanities/media/black-eyed-peas/Clusius_Rariorum_Plantarum_Historia_Biblioteca_del_Real_Jardín_Botánico_CC_BY_NC_SA.jpg">
@@ -76,7 +76,7 @@ The European perspective is not the only early modern view we have on the black-
        manifest="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:938367/manifest">
 
 
-# Food, Culture, and Colonialism
+## Food, Culture, and Colonialism
 
 The black-eyed pea, <span eid="Q259438">millet</span>, <span eid="Q8047551">yams</span>, and many other staple foods of the American tropics have African origins. European traders on the coast of West Africa filled hundreds of thousands of vessels with 10 to 12 million captives over the centuries of the <span eid="Q10701282">transatlantic slave trade</span>.[^ref10] These vessels carried humans-as-commodities as well as the foodstuffs needed for an average voyage of 60 to 80 days.[^ref11] Dry legumes, like black-eyed peas, [hyacinth beans,](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501411-1) and <span eid="Q338219">bambara groundnuts</span>, were staple foods cooked into gruel during the <span eid="Q2500942">Middle Passage</span>. Leftover stocks then accompanied captives as they were dispersed throughout the Americas and the Caribbean.[^ref12] In Jamaica around 1687, the English physician, naturalist, and planter <span eid="Q310326">Sir Hans Sloane</span> (1660–1753) recorded the presence of the black-eyed pea and extracted a plant to create this herbarium specimen.[^ref13]
 <param ve-plant-specimen
@@ -104,7 +104,7 @@ In the late nineteenth century, American <span eid="Q2787508">subsistence farmer
        src="https://archive.org/embed/CAT31355486/page/n2/mode/1up">
 
 
-# British Colonial Botany
+## British Colonial Botany
 
 The black-eyed pea’s global journey is well documented in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726">Royal Botanic Gardens, Kew</span>. Although the plant was not grown as a crop in Britain (it usually being far too cold and wet), Kew’s holdings demonstrate that it was widely collected and studied in the nineteenth century as a useful plant from across the colonial world. The samples were collected from Niger ([seed](https://ecbot.science.kew.org/read_ecbot.php?catno=39429&search_term=Vigna%20unguiculata%20Niger&search_type=name)), India ([seed](https://ecbot.science.kew.org/read_ecbot.php?catno=39424&search_term=Vigna%20unguiculata%20India&search_type=name)), China ([seeds](https://ecbot.science.kew.org/read_ecbot.php?catno=61500&search_term=Vigna%20unguiculata%20china&search_type=name)), and Japan ([food](https://ecbot.science.kew.org/read_ecbot.php?catno=61541&search_term=Vigna%20unguiculata%20japan&search_type=name)). They were also obtained from imperial exhibitions where plant products were displayed, as well as from colonial expeditions, including that of Scottish explorer and naturalist <span eid="Q183567">Dr. William Balfour Baikie’s</span> (1825–1864) [Niger Expedition of 1859.](https://ecbot.science.kew.org/result_ecbot.php?name=Niger+Expedition+1859&submit=Search)
 <param ve-image 
@@ -112,7 +112,7 @@ The black-eyed pea’s global journey is well documented in the [Economic Botany
        fit="contain">
 
        
-# Culinary History and Cultural Celebrations
+## Culinary History and Cultural Celebrations
 
 Today, black-eyed peas are grown commercially in at least 33 countries, reflecting the widespread embrace of the bean among geographically disparate peoples, places, and cultures.[^ref20] As acclaimed food historian and chef <span eid="Q49562413">Michael W. Twitty</span> points out: "Very few people in the modern West eat one cuisine or live within one culinary construct," but rather enjoy a multiplicity of culinary histories.[^ref21] Twitty coined the term "identity cooking" to characterize "how we construct complex identities and then express them through how we eat," an idea that is useful for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref22]
 <param ve-video 
@@ -152,7 +152,7 @@ Brazil’s national dish, <span eid="Q878189">_feijoada completa_</span>, has a 
        fit="contain">
 
 
-# Climate Change, Breeding, and Resilience
+## Climate Change, Breeding, and Resilience
 
 Today, the <span eid="Q82151">Food and Agriculture Organization of the United Nations</span> estimates that around 7 million tons of black-eyed peas are produced annually worldwide.[^ref31] The centers of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80 percent of the world’s black-eyed pea crop.[^ref32] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref33] Black-eyed peas are the third most important <span eid="Q379813">pulse</span> worldwide—a crucial component of sustainable agriculture and source of food for hundreds of millions of people.
 <param ve-map zoom="2"
@@ -177,7 +177,7 @@ The [Crop Wild Relatives Project](https://www.croptrust.org/work/projects/crop-w
        author="RBG Kew">
 
        
-# A Food of the Future
+## A Food of the Future
 
 Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe, and frijole, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref36] And black-eyed peas and other legumes are globally growing in status as key cooking ingredients and foods of the future. Highly nutritious and relatively easy to grow, black-eyed peas will no doubt play an important part in future <span eid="Q1229911">food security</span>: providing food in changing climates and helping small-scale farmers combat poverty and hunger.[^ref37] As the climate becomes warmer and more unpredictable, and as human populations grow and resources become more limited, crops such as black-eyed peas, with its many virtues, will contribute to the diets of more people.[^ref38]
 <param ve-compare curtain 
