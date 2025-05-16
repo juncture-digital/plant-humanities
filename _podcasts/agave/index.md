@@ -29,7 +29,7 @@ This is a strict audio narration of the article text using the [ElevenLabs](http
 
 ### Single Speaker Overview/Podcast
 
-This is a single-speaker overview/podcast of the article.  The script for the audio was produced by ChatGPT using the article text as input with a prompt instructing to generate a summary for a general audience.  The summary produced by ChatGPT was then converted to audio using the [ElevenLabs](https://elevenlabs.io/) text to voice conversion.
+This is a single-speaker overview/podcast of the article.  The script for the audio was produced by ChatGPT using the article text as input with a prompt to generate a summary for a general audience.  The summary produced by ChatGPT was then converted to audio using the [ElevenLabs](https://elevenlabs.io/) text to voice conversion.
 
 `audio src=podcast.mp3 caption="Single speaker overview/podcast" .medium`
 
