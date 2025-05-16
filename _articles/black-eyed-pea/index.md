@@ -10,7 +10,7 @@ tags: legume vegetable drought-tolerant staple
 published: true
 ---
 
-`header title="Black-Eyed Pea: Crop, Culture, Class" author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan" img=https://newsroom.ucr.edu/images/releases/1708_0hi.jpg` 
+`header title="Black-Eyed Pea: Crop, Culture, Class" author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan" img=banner.jpg` 
 
 
 ## A Food Source and So Much More
