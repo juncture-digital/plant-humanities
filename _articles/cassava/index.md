@@ -7,7 +7,7 @@ layout: post
 thumbnail: "https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/cassava.jpg"
 permalink: /cassava
 tags: root tropical drought-tolerant staple
-published: false
+published: true
 ---
 
 `header title="Cassava: From Toxic Tuber to Food Staple" author="Christina Emery, Rachel Hirsch, and Melinda Susanto" img=banner.jpg` 
